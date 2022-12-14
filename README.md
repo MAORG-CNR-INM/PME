@@ -8,8 +8,8 @@
 
 ## Tool description
 
-- The matlab tool provides an example application for the design-space reparameterization of the NACA 0012 airfoil..
-- The original parameterization is based formed by 14 design variables based on Bezier curves.
+- The matlab tool provides an example application for the design-space reparameterization of the NACA 0012 airfoil.
+- The original parameterization is formed by 14 design variables based on Bezier curves.
 
 
 ***References***
